@@ -1,7 +1,7 @@
 # BCS-Hwk-Assignment-1 - Overbond
 ## Overview and Origin
 
-![Overbond](Images/Overbond-pic.png)
+![Overbond](Images/Overbond-png.png)
 
 
 * ### Name of company:
@@ -71,7 +71,7 @@
 
 * ### What are the other major companies in this domain?
 
-    The fixed income segment can be broken up into 3 groups of participants: (i) issuers; (ii) underwriters; (iii) investors; (iv) data analytics providers
+    The fixed income segment can be broken up into 4 main groups of participants: (i) issuers; (ii) underwriters; (iii) investors; (iv) data analytics providers
 
     * The issuers of bonds can be governments (either federal,        provincial, municipal) or corporate (typically in Canada these are fairly large corporations, as the lower quality debt market isn't as mature in Canada).
 
@@ -126,5 +126,7 @@
 * [Overbond interview on motivations for startup](https://www.youtube.com/watch?v=NR6YAvtJs-U)
 * [COBI issuance AI predictive algorithm white paper](https://s3.amazonaws.com/overbond-static/public_downloads/COBI-Bond-Issuance-International-AI-White-Paper.pdf)
 * [Breakdown of machine learning in bond issuance](https://www.economist.com/finance-and-economics/2018/05/10/a-canadian-startup-applies-machine-learning-to-corporate-bond-issuance)
+* [Corporate bond issues go digital](https://www.bnnbloomberg.ca/video/corporate-bond-issuances-go-digital-with-overbond~89344)
+
 
 
