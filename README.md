@@ -8,10 +8,12 @@
     Overbond
 
 * _When was the company incorporated?_
-Overbond was founded in Toronto in 2015.
+
+    Overbond was founded in Toronto in 2015.
 
 * _Who are the founders of the company?_
-Vuk Magdelinic
+
+    Vuk Magdelinic
 
 * _How did the idea for the company (or project) come about?_
 
@@ -30,42 +32,41 @@ Vuk Magdelinic
 
 * _What specific financial problem is the company or project trying to solve?_
 
-    Overbond is a digital platform that aims to make primary bond issuance easier by connecting bond market participants; specifically, it connects corporate and government issuers with dealers and investors.
+    Overbond is a digital platform that aims to make primary bond issuance easier by connecting all bond market participants - from corporate and government issuers to dealers and institutional investors.
 
-    Overbond is the first fully-integrated platform to directly connect corporate and government bond market issuers with dealers and fixed-income investors. The proprietary platform features end-to-end processing capability and a support framework for primary bond origination transforming primary bond issuance into a fully-digital, transparent, and secure process from pre-deal research straight through to deal execution.
+    Overbond is the first fully-integrated platform to directly connect these counterparties. Their platform features end-to-end processing capability and a support framework for primary bond origination, namely through their dynamic pricing model. Overbond hopes that their offering can revolutionize the fixed income segment from an archaic primary bond issuance process to a transparent, secure and fully digital end to end process - from pre-issuance data analytics to end deal execution.
 
-    The company also introduced Overbond BPS, a cloud-based solution that streamlines dealer-issuer communication and provides advanced market analytics. Every year corporate treasurers receive on average 2,314,900 bond market updates by email and consume 125,000 hours of their time in managing this information in Canada alone. This problem is even bigger in the U.S. Overbond digitizes the end-to-end process, allowing dealers to focus on their clients’ needs.
+    More recently, the company  introduced Overbond BPS, a cloud-based solution that streamlines dealer-issuer communication and provides advanced market analytics. Every year corporate treasurers receive on average more than 2 million bond market updates by email and consume 125,000 hours of their time in managing this information in Canada alone. This problem is even bigger in the U.S. Overbond digitizes the end-to-end process, allowing dealers to focus on their clients’ needs, instead of piecing together pricing data through patchy and archaic means.
 
 * _Who is the company's intended customer?  Is there any information about the market size of this set of customers?_
 
-    The Institute of International Finance reported that in 2019 the size of the global debt market – which includes publicly traded securities, such as bonds, bills, notes, commercial paper, and non-publicly traded loans — surpassed $250 trillion last year.
+    The Institute of International Finance reported that in 2019 the size of the global debt market – which includes publicly traded securities, such as bonds, bills, notes, commercial paper, as well as non-publicly traded loans — surpassed $250 trillion last year. Making this segments multiples larger than the equity segment.
 
-    Overbond services both issuers of bonds and investors, while 
+    Overbond serves both sides of fixed income segment. Overbond allows primary issuers to use their platform for price discovery and gain a transparent view of demand for their credit and from who. On the other side, Overbond provides a digital platform for institutional investors to predict which issuers are going to come to market and when and then allows them to participate in these primary issues.
 
-    “Overbond…connects issuers and allows them to price discover and gain a real insight of marketplace demand for their credit and their new bonds,” said Vuk Magdelinic, the CEO of Overbond. “On the other hand, it provides investors with a digital outlet to participate in primary issues and give a community that can service a large amount of clients and effectively do more with less.”
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)_
 
-    Overbond is the first end-to-end fixed income markets fintech platform for AI predictive analytics for both issuers and potential investors. It also utilizes a proprietary AI algorithm to predict when companies are likely to issue and provide investors with potential trading ideas.
+    Data analytics and pricing has thus far been a siloed process, where dealers will maintain their own models for pricing and then offer this to the issuers. Overbond is the first end-to-end fixed income markets fintech platform for AI predictive analytics for both issuers and potential investors. Overbondutilizes a proprietary AI algorithm to predict when companies are likely to issue and provide investors with potential trading ideas.
 
 * _Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)_
 
-    Overbond is an AI quantitative analytics provider for institutional fixed income capital markets. Overbond provides data aggregation solutions and comprehensive suite of AI algorithms for bond pricing, bond buyer matching, pre-trade signals and market surveillance.
+    Overbond provides data aggregation solutions and comprehensive suite of AI algorithms for bond pricing, bond buyer matching, pre-trade signals and market surveillance.
 
 
 ## Landscape:
 
 * _What domain of the financial industry is the company in?_
 
-    Overbond is in the capital markets domain. This domain hosts a number of diverse fintech startups that are often very different in terms of product offering and target market, however face similar challenges such as: regulatory hurdles and entrenched processes.
+    Overbond is in the capital markets domain. This domain hosts a number of diverse fintech startups that are often very different in terms of product offering and target market, however face similar challenges such as: regulatory hurdles and entrenched processes. While large fintech success stories have typically come from the equity segment, recently we've seen several companies attain success in either the fx market or market data analytics (like Kooltra and Canalyst here in Canada respectively). However the fixed income segment has had relatively fewer independent fintech startups, likely due to the opaque and entrenched nature of pricing and the much higher regulatory hurdle in credit in compared to equity.
 
 * _What have been the major trends and innovations of this domain over the last 5-10 years?_
 
     While the equity side of capital markets has had a revolution, particularly on the front end, with companies like Wealthsimple making equity investing cheap, convenient and accessible, the bond market has seen relatively few innovations over the past 30 years. Specifically, the 
 
-    Specifically, as it pertains to Overbond, the capital markets domain has fully embraced Artificial intelligence and is one of the biggest spenders on AI technology today. Capital markets is the most data intensive segment of the financial industry. As a result, some firms have used machine learning models for risk management and/or trading strategies - with over 80% of trading volume today being executed by algorithmic trading models.
+    Specifically, as it pertains to Overbond, the capital markets domain has fully embraced Artificial intelligence and is one of the biggest spenders on AI technology today and capital markets as a whole is the most data intensive segment of the financial industry. As a result, some firms have used machine learning models for risk management and/or trading strategies - with over 80% of trading volume today being executed by algorithmic trading models.
 
-    In the fixed income segment, we've seen a trend to automate the work-flow and trade overall at different dealers. However, without any centralized, dynamic pricing of fixed income, this automation and information flow is patchy without the introduction of systematic pricing from Overbond.
+    However, in the fixed income segment, we've seen a trend to automate the work-flow and trade overall at different dealer, but without any centralized, dynamic pricing of fixed income, this automation and information flow is patchy without the introduction of systematic pricing offering from Overbond.
 
 
 * What are the other major companies in this domain?
@@ -75,6 +76,8 @@ Vuk Magdelinic
 ## Results
 
 * What has been the business impact of this company so far?
+
+    
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
